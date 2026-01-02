@@ -1,19 +1,17 @@
-Pathfinding Visualizer
+<h1>Pathfinding Visualizer</h1>
 
-Pathfinding Visualizer is a web app built using HTML, CSS, and JavaScript.
+<p>Pathfinding Visualizer is a web app built using HTML, CSS, and JavaScript.</p>
 
-Try the live application: Click Here
+<img width="1430" height="929" alt="screenshot (1)" src="https://github.com/user-attachments/assets/afb33d88-3074-4e88-9d74-ccd489e7eba3" />
 
-Try the live application: <img width="1430" height="929" alt="screenshot (1)" src="https://github.com/user-attachments/assets/afb33d88-3074-4e88-9d74-ccd489e7eba3" /> Click Here
+<p><strong>Try the live application:</strong> <a href="https://ethan93dev.github.io/Pathfinding-Visualizer/" target="_blank" rel="noopener noreferrer">Click Here</a></p>
 
-This app visualizes various pathfinding algorithms working on a 2D grid, implemented and animated using the Canvas API.
+<p>This app visualizes various pathfinding algorithms working on a 2D grid, implemented and animated using the Canvas API.</p>
 
-Algorithms Visualized:
-
-Depth First Search (DFS)
-
-Breadth First Search (BFS)
-
-Dijkstra’s Algorithm
-
-A* Search Algorithm
+<h3>Algorithms Visualized:</h3>
+<ul>
+  <li>Depth First Search (DFS)</li>
+  <li>Breadth First Search (BFS)</li>
+  <li>Dijkstra’s Algorithm</li>
+  <li>A* Search Algorithm</li>
+</ul>
